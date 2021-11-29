@@ -1,9 +1,10 @@
-import { motion } from 'framer-motion'
-import React from 'react'
-import { NavLink } from 'react-router-dom'
-import styled from 'styled-components'
-import { Facebook, Github, LinkedIn, Twitter, } from '../components/AllSvgs'
-import {DarkTheme} from '../components/Themes'
+import { Github, Twitter, Facebook, LinkedIn } from "../components/AllSvgs";
+
+import styled from "styled-components";
+import { motion } from "framer-motion";
+
+import { NavLink } from "react-router-dom";
+import { DarkTheme, mediaQueries } from "../components/Themes";
 
 
 const Icons = styled.div`
@@ -19,8 +20,23 @@ z-index: 3;
 
 &>*:not(:last-child){
     margin: 0.5rem 0;
-}
 
+    ${mediaQueries(20)`
+      margin: 0.3rem 0;
+
+
+  `};
+  }
+
+  ${mediaQueries(40)`
+  left: 1rem;
+
+      svg{
+        width:20px;
+        height:20px
+      }
+
+  `};
 `
 
 
