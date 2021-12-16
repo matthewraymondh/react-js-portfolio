@@ -17,6 +17,15 @@ export const Work = [
         demo:"https://netclone-14d78.web.app/",
         github:"https://github.com/matthewraymondh/Filmoon"
     },
+    {
+        id:3,
+        name:"Uber Eats Clone",
+        description:"Uber Eats Clone build on react native, Google API, Yelp API, Redux and firebase.",
+        tags:["react-native","firebase","JavaScript","API","Redux"],
+        
+        demo:"https://expo.dev/@matthewraymond/UberEatsClone",
+        github:"https://github.com/matthewraymondh/react-native-uber-eats-clone"
+    },
     
     
   
