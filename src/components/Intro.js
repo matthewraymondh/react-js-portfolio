@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import {motion} from 'framer-motion'
 import Me from '../assets/Images/profile-img.png'
 import { mediaQueries } from "./Themes";
+import Typical from 'react-typical';
 
 const Box = styled(motion.div)`
 
@@ -204,7 +205,20 @@ const Intro = () => {
                 <Text>
                     <h1>Hi,</h1>
                     <h3>I'm Raymond.</h3>
-                    <h6>I'm a Software Developer, Web Developer, and Editor. </h6>
+                    <h6>I'm a <Typical
+                      loop={Infinity}
+                      wrapper='b'
+                      steps={[
+                        'Developer 🖥️',
+                        1000,
+                        'Web developer 🌐',
+                        1000,
+                        'Video editor 🎬',
+                        1000,
+                        'Freelancer 🧑‍💻',
+                        1000,
+                      ]} 
+                    /> </h6>
                 </Text>
             </SubBox>
             <SubBox>
