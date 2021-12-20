@@ -35,6 +35,15 @@ export const Work = [
         demo:"https://spoticlone-jade.vercel.app/",
         github:"https://github.com/matthewraymondh/Spoticlone-Next-JS"
     },
+    {
+        id:5,
+        name:"Zener",
+        description:"A search engine built with Next.JS, with google API, Tailwind CSS, SSR react, and Pagination ",
+        tags:["Next.JS","Tailwind","JavaScript","API","SSR"],
+        
+        demo:"https://zener-matthewraymondh.vercel.app/",
+        github:"https://github.com/matthewraymondh/Zener-next-Js"
+    },
     
     
   
