@@ -26,6 +26,15 @@ export const Work = [
         demo:"https://expo.dev/@matthewraymond/UberEatsClone",
         github:"https://github.com/matthewraymondh/react-native-uber-eats-clone"
     },
+    {
+        id:4,
+        name:"Spoticlone",
+        description:"Spotify clone built on Next.JS, with spotify API, NextAuth, Tailwind Css, and middleware. ",
+        tags:["Next.JS","Tailwind","JavaScript","API","middleware"],
+        
+        demo:"https://spoticlone-jade.vercel.app/",
+        github:"https://github.com/matthewraymondh/Spoticlone-Next-JS"
+    },
     
     
   
