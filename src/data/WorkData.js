@@ -44,6 +44,15 @@ export const Work = [
         demo:"https://zener-matthewraymondh.vercel.app/",
         github:"https://github.com/matthewraymondh/Zener-next-Js"
     },
+    {
+        id:6,
+        name:"Picmera",
+        description:"A social media application built on React js, with Google authentication, Sanity, and Tailwind CSS ",
+        tags:["React.JS","Tailwind","JavaScript","API","Sanity"],
+        
+        demo:"https://picmera.netlify.app/",
+        github:"https://github.com/matthewraymondh/Picmera"
+    },
     
     
   
