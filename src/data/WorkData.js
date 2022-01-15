@@ -53,6 +53,15 @@ export const Work = [
         demo:"https://picmera.netlify.app/",
         github:"https://github.com/matthewraymondh/Picmera"
     },
+    {
+        id:7,
+        name:"Discord clone",
+        description:"A discord clone made with react-js, react router dom, redux, firebase, tailwind, and google authentication. ",
+        tags:["React.JS","Tailwind","JavaScript","redux","firebase"],
+        
+        demo:"https://discord-clone-umber.vercel.app/",
+        github:"https://github.com/matthewraymondh/discord-clone"
+    },
     
     
   
