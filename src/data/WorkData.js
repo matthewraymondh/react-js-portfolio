@@ -59,7 +59,7 @@ export const Work = [
         description:"A discord clone made with react-js, react router dom, redux, firebase, tailwind, and google authentication. ",
         tags:["React.JS","Tailwind","JavaScript","redux","firebase"],
         
-        demo:"https://discord-clone-umber.vercel.app/",
+        demo:"https://discord-clone-ra0vd4448-matthewraymondh.vercel.app/",
         github:"https://github.com/matthewraymondh/discord-clone"
     },
     
