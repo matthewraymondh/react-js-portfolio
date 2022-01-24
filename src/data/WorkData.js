@@ -62,6 +62,15 @@ export const Work = [
         demo:"https://discord-clone-ra0vd4448-matthewraymondh.vercel.app/",
         github:"https://github.com/matthewraymondh/discord-clone"
     },
+    {
+        id:8,
+        name:"Eater",
+        description:"A food delivery app built on react native, with redux, and google map API. ",
+        tags:["React Native","Map","JavaScript","redux","API"],
+        
+        demo:"",
+        github:"https://github.com/matthewraymondh/Food-Delivery-App---React-Native"
+    },
     
     
   
