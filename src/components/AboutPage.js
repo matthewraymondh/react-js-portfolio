@@ -112,9 +112,9 @@ const AboutPage = () => {
         initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}
         >
-        I'm a front-end developer located in Indonesia. I love to create simple yet beautiful websites with great user experience.
+        I'm a Full-stack developer located in Indonesia. I love to create simple yet beautiful websites and apps with great user experience.
         <br /> <br />
-        I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer. I love to create new things and developing.
+        I'm interested in the whole full stack Like trying new things and building great projects. I'm an independent freelancer. I love to create new things and developing.
         <br /> <br />
         I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
         </Main>
