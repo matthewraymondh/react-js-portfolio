@@ -1,11 +1,11 @@
 export const Blogs = [
     {
-        id:1,
-        name:"",
-        tags:[],
-        date:"",
-        imgSrc:"",
-        link:""
+        id: 1,
+        name: "My Blog",
+        tags: ["Visit my blog"],
+        date: "5-2-2022",
+        imgSrc: "https://i.imgur.com/XY9Eaxy.png",
+        link: "https://matthewraymond-blog.vercel.app/",
     },
     {
         id:2,
